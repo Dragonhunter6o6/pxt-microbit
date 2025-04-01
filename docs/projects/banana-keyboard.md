@@ -17,7 +17,7 @@ Build your own @boardname@ piano using bananas!
 * @boardname@, battery holder and 2 AAA batteries
 * Banana
 * Orange
-* Crocodile clips
+* 4 Crocodile clips
 
 ## Activities
 
